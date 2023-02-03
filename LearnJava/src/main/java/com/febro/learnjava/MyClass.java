@@ -2,6 +2,7 @@ package com.febro.learnjava;
 
 public class MyClass {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        // TEST GIT 1
+        System.out.println((125621 / 1000));
     }
 }
